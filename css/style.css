@@ -11,7 +11,7 @@
     height: 50px;
     position: absolute;
     top: 25px;
-    left: 0;
+    left: 15%;
     background-repeat: repeat;
 }
 /* rimozione bordi body */
@@ -19,7 +19,7 @@ body {
     margin: 0;
 }
 /* impostazione width pagina */
-#container {
+.container {
     width: 70%;
     margin: auto;
 }
