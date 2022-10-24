@@ -14,9 +14,16 @@
     left: 0;
     background-repeat: repeat;
 }
+/* rimozione bordi body */
 body {
     margin: 0;
 }
+/* impostazione width pagina */
+#container {
+    width: 70%;
+    margin: auto;
+}
+/* regole specifiche */
 h1 {
     margin-top: 30px;
     font-size: 38px;
@@ -30,14 +37,16 @@ a {
     text-decoration: none;
     color:#4bb6e9;
 }
-#container {
-    width: 70%;
-    margin: auto;
-}
 span {
     font-size: 12px;
 }
 #autori-foto {
     font-style: normal;
     font-size: 12px;
+}
+p {
+    font-size: 20px;
+}
+ul {
+    padding-left: 15px;
 }
