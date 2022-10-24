@@ -64,3 +64,16 @@ thead {
 table {
     border-collapse: collapse;
 }
+h2 {
+    color: rgb(143, 143, 143);
+}
+.foto-approfondimento {
+    position: relative;
+}
+.scritte-foto {
+    position: absolute;
+    top: -10px;
+    left: 15px;
+    color: white;
+    font-size: 25px;
+}
